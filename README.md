@@ -2,6 +2,8 @@
 
 #### Welcome!  You can find below video walkthrough guidelines to create schema, seed the database and work on CRUD operations.
 
+## CLICK on the images below to play video
+************************************************************************************************************************************************
 ************************************************************************************************************************************************
 
 ## - Create Database Schema
