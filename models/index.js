@@ -3,10 +3,12 @@ const Product = require('./Product');
 const Category = require('./Category');
 const Tag = require('./Tag');
 const ProductTag = require('./ProductTag');
+const { set } = require('express/lib/response');
 
 // Products belongsTo Category
 Product.belongsTo(Category,{
-  foreignKey:'category_id'
+  foreignKey:'category_id',
+  onDelete: 'SET NULL'
 });
 // Categories have many Products
 Category.hasMany(Product,{
