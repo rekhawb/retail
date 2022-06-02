@@ -42,7 +42,7 @@
 ************************************************************************************************************************************************
 To perform this, modify the code in the model as follows
 
-![delete data null](https://raw.githubusercontent.com/rekhawb/retail/71e097a2a72887dd316aa1119be0ae2e17f2237c/images/8.PNG)
+![delete data null](https://github.com/rekhawb/retail/blob/main/images/8.PNG)
 
 ************************************************************************************************************************************************
 [![delete data NULL](https://raw.githubusercontent.com/rekhawb/retail/71e097a2a72887dd316aa1119be0ae2e17f2237c/images/9.PNG)](https://drive.google.com/file/d/1cfsFDPNlh1l1IbNK2UFbDfU8O6uWFoss/view)
